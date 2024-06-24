@@ -1,0 +1,129 @@
+.last {
+    display: flex;
+    flex-direction: row;
+    max-width: 144vw;
+    max-height: 90vh;
+    justify-content: space-evenly;
+}
+.last .link33 {
+    p {
+        text-align: center;
+        margin: 2rem 0 3rem 0;
+        color: #9F9F9F;
+    }
+}
+.last .link44 {
+    p {
+        text-align: center;
+        margin: 2rem 0 3rem 0;
+        color: #9F9F9F;
+    }
+}
+.last .link45 {
+    p {
+        color: #9F9F9F;
+        margin: 2rem 0 3rem 0;
+    }
+}
+.last .link33 .nav11 {
+    list-style: none;
+    .link {
+        display: flex;
+        text-decoration: none;
+        color: black;
+        font-size: 1.2rem;
+        margin-bottom: 2rem;
+        font-family: Poppins;
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 24px;
+    }    
+}
+.last .link44 .nav11 {
+    list-style: none;
+    .link {
+        display: flex;
+        text-decoration: none;
+        color: black;
+        font-size: 1.2rem;
+        margin-bottom: 2rem;
+        font-family: Poppins;
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 24px;
+    }
+}
+.last .text {
+    display: flex;
+    flex-direction: column;
+    .ppp {
+        margin: 2rem 0 1.7rem 0;
+        font-family: Poppins;
+        font-size: 24px;
+        font-weight: 700;
+        line-height: 36px;
+        text-align: left;
+    }
+    .pp {
+        font-family: Poppins;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 24px;
+        text-align: left;
+    }
+}
+.last .link33 {
+    p {
+        font-family: Poppins;
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 24px;
+        text-align: left;
+    }
+}
+
+.last .link44 {
+    p {
+        font-family: Poppins;
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 24px;
+        text-align: left;
+    }
+}
+
+.last .link45 {
+    p {
+        font-family: Poppins;
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 24px;
+        text-align: left;
+    }
+    input {
+        border-left: none;
+        border-right: none;
+        border-top: none;
+        border-bottom: 1px solid #000000;
+        font-family: Poppins;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 21px;
+        text-align: left;
+    }
+    .btnfoot {
+        border: none;
+        border-bottom: 1px solid #000000;
+        padding-left: 0.8rem;
+        font-family: Poppins;
+        font-size: 14px;
+        font-weight: 500;
+        line-height: 21px;
+        text-align: left;
+    }
+}
+.last .divider {
+    width: 60px;
+    border: 1px solid #000000;
+    padding: 1px;
+}
